@@ -1,0 +1,9 @@
+*{margin:0;padding:0;vertical-align:middle;box-sizing:border-box;}
+
+html,body{width:100%;height:100%;}
+body{font:normal 14px/1 '굴림', 'arial';color:#333333;background: #fff;}
+a{text-decoration:none;color:#333333;}
+ul, li{list-style:none;}
+h1,h2,h3,h4,h5,h6{font-size:14px;font-weight:normal;}
+em,i,address{font-style:normal;} /*italic 이탤릭체로 글씨가 눕는다 안눕게 설정*/
+header,main,footer,section,article,nav,aside{display:block;}
